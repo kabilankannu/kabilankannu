@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kabilan C</h1>
 <h3 align="center">A passionate and evolving techie</h3>
 
-<img align="right" alt="code" width="180" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
+<img align="right" alt="code" width="150" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabilankannu" alt="kabilankannu" /></a> </p>
 
