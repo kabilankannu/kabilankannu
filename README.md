@@ -29,3 +29,5 @@ Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabilankannu&show_icons=true&locale=en" alt="kabilankannu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilankannu&" alt="kabilankannu" /></p>
+
+[![kabilankannu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kabilankannu&color=0d0c0c&line=0d0c0c&hide_title=true&hide_border=true&theme=github-compact&point=0d0c0c)](https://github.com/kabilankannu)
