@@ -1,6 +1,8 @@
-![MasterHead](https://i.redd.it/ol84mk6keoq01.gif)
-<h1 align="center">Hi 👋, I'm Kabilan C</h1>
-<h3 align="center">A passionate and evolving techie</h3>
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+Hello, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Kabilan C
+=========================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Kabz.)](https://github.com/sponsors/heyValdemar)
+<h3>A passionate and evolving techie</h3>
 
 <img align="right" alt="code" width="150" src="https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif">
 
