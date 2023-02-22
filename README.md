@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+![MasterHead](https://i.redd.it/ol84mk6keoq01.gif)
 <h1 align="center">Hi 👋, I'm Kabilan C</h1>
 <h3 align="center">A passionate and evolving techie</h3>
 
